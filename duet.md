@@ -19,7 +19,7 @@
 	<!-- Page Info -->
 	<link rel="shortcut icon" href="https://d1qmdf3vop2l07.cloudfront.net/chartreuse-kouprey.cloudvent.net/hash-store/c7dc39cb30449586c7bb240885a6e84c.png" data-cms-original-href="/images/favicon.png" />
 	<title>Duet – A beautiful two-column Jekyll theme</title>
-	<meta name="description" content="A beautiful, minimal two-column portfolio theme built for Jekyll. Duet makes your work look simply awesome." />
+	<meta name="description" content="Gourmet mushrooms grown locally in Charleston, SC" />
 
 	<!-- Twitter Card -->
 	<meta name="twitter:card" content="summary_large_image" />
@@ -64,7 +64,7 @@
 </head>
 
 
-<body class="loading ajax-loading" data-site-url="https://duet.jekyllthemes.io" data-page-url="/">
+<body class="loading ajax-loading" data-site-url="http://www.two-fungis.com" data-page-url="/">
 
 
 	<header class="header">
@@ -116,15 +116,14 @@
 	
 	<div class="page">
 
-		<div class="page__content" data-page-title="Duet – A beautiful two-column Jekyll theme" data-cms-content-wrapper="/_layouts/default.html">
+		<div class="page__content" data-page-title="Two Fungis" data-cms-content-wrapper="/_layouts/default.html">
 
 			<section class="intro">
 
 	<div class="wrap">
 
-		<h1>A beautiful, minimal two-column
-		portfolio theme built for Jekyll.</h1>
-		<p>Duet makes your work look simply awesome.</p>
+		<h1>Gourmet mushrooms grown locally in Charleston, SC</h1>
+		<p>Fresh, tasty, ready to enjoy.</p>
 
 	</div>
 
