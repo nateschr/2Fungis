@@ -2,23 +2,12 @@
 
 <head>
 
-
-	<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-	Duet
-
-	Duet Theme by https://jekyllthemes.io
-	Premium + free Jekyll themes for your blog or website.
-
-	- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
-
-
 	<meta charset="utf-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 
 	<!-- Page Info -->
 	<link rel="shortcut icon" href="https://d1qmdf3vop2l07.cloudfront.net/chartreuse-kouprey.cloudvent.net/hash-store/c7dc39cb30449586c7bb240885a6e84c.png" data-cms-original-href="/images/favicon.png" />
-	<title>Duet – A beautiful two-column Jekyll theme</title>
+	<title>Two Fungis</title>
 	<meta name="description" content="Gourmet mushrooms grown locally in Charleston, SC" />
 
 	<!-- Twitter Card -->
@@ -73,7 +62,7 @@
 
 		
 		<a href="/" class="header__title cc-active">
-			Duet
+			Two Fungis
 		</a>
 		
 
@@ -297,15 +286,15 @@
 
 		
 		<a href="/" class="footer__title cc-active">
-			Duet
+			Two Fungis
 		</a>
 		
 
 		<p class="footer__text">A beautiful, minimal two-column portfolio Jekyll theme</p>
 
 		<div class="footer__copyright">
-			<span>© 2020 Duet</span>
-			<a href="https://jekyllthemes.io" target="_blank">Jekyll Themes</a>
+			<span>© 2023 2Fungis, LLC.</span>
+			<a href="http://www.two-fungis.com" target="_blank">Jekyll Themes</a>
 		</div>
 
 		<ul class="socials">
